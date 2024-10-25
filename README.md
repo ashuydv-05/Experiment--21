@@ -80,6 +80,10 @@ return 0;
 }
 ```
 
+OUTPUT:
+![exp21](https://github.com/ashuydv-05/Experiment--21/blob/main/linear%20search.png)
+![exp22](
+
 
 
 
